@@ -79,10 +79,7 @@ User web page displays who is logged in (anaonymousUser or logged in user)
    3.1 Logging
    3.1.1  Logging has been implemented using Java Util Logging API
 
-4. Missing Bonus Features due to time contstraints
-    - Use any embedded web servlet container to startup the web application in maven
-    - Documentation of classes/code/packaging (swagger or RAML or any other tools)
-    - Use Camel to route the web service call
+4. 
 
 
 5. Complete Java Standard Comments/Documentation has been included for code
